@@ -17,7 +17,12 @@ This repository contains the source code for a shiny app that allows a user to e
 Some features have also been added to make to app more visually appealing, including the addition of an image as well as changing some theme colours. 
 . 
 
-A running instance of the shiny app can be found at:
+The original instance of the shiny app from assignment 3 can be found at: 
+
+https://haleymac.shinyapps.io/assignment-b3-haleymac/?_ga=2.203086680.879369516.1670034319-171747961.1670034319
+
+
+A running instance of the updated shiny app for assignment 4 can be found at:
 
 https://haleymac.shinyapps.io/Assignment_B4/?_ga=2.265606982.879369516.1670034319-171747961.1670034319
 
