@@ -4,12 +4,19 @@ README
 
 # Vancouver Trees Shiny App
 
-**For this assignment I have chosen option B and have created my own
-shiny app**
+**For this assignment I have chosen to continue developing my own shiny
+app**
 
 This repository contains the source code for a shiny app that allows a
 user to explore the vancouver trees dataset through several interactive
-features, including a coordinate plot and a customizable table.
+features. The features include several variables the users can sort the
+dataset by, a map that shows the location in the city of the user’s
+selected trees, the ability to colour-code the points on the map for a
+number of variables, and an interactive and customizable table.
+
+Some features have also been added to make to app more visually
+appealing, including the addition of an image as well as changing some
+theme colours. .
 
 A running instance of the shiny app can be found at:
 
@@ -22,3 +29,10 @@ can be downloaded from
 Several modifications to the dataset were made using the dplyr package,
 and can be found in the beginning of the source code presented in this
 repository.
+
+The files in this app include:
+
+app.R - this file contains all of the source code for this application
+
+WWW- this folder contains the image file that was rendered in the app to
+make it look pretty
